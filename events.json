@@ -13,7 +13,7 @@
         "address": "Tech City, 456 Tech Avenue, City",
         "entryFee": "3,500",
         "speakersCount": 2,
-        "speakersImageUrl": ["https://media.istockphoto.com/id/1361340420/photo/portrait-of-a-smiling-african-young-woman-in-a-shirt.jpg?s=612x612&w=0&k=20&c=m9KEh71i_VgPCYZ7ASWp9e9UDr1mjhL-wayVcQFwhe4=", "https://media.istockphoto.com/id/1347368796/photo/studio-portait.jpg?s=612x612&w=0&k=20&c=Ti41F0AD-YgP7tjD4nlTuFcNoqI4RrR57GqF589t_Q8="],
+        "speakersImageUrl": ["https://media.istockphoto.com/id/1361340420/photo/portrait-of-a-smiling-african-young-woman-in-a-shirt.jpg?s=612x612&w=0&k=20&c=m9KEh71i_VgPCYZ7ASWp9e9UDr1mjhL-wayVcQFwhe4=", "https://media.istockphoto.com/id/2163589455/photo/pretty-lady-wear-blue-dotted-dress-isolated-on-white-background-stock-photo.jpg?s=612x612&w=0&k=20&c=QSAF8O8EzQmLx-FKjkUwams89eUTZ5GBMZ-jffpZWT0="],
         "speakersName": ["Smith Carl", "john Doe"],
         "speakersDesignation": ["Tech Manager", "SEO Specialist"]
     },
@@ -22,9 +22,9 @@
         "title": "Design Workshop",
         "date": "Mon Dec 4 2024 * 10:00:00 AM IST",
         "eventMode": "Offline Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1142757989/photo/designers-working-on-ux.jpg?s=612x612&w=0&k=20&c=7eEDkQQqYUZsCm9ueRhJ6kMndKbI8AdQ3XSLxB7MeSY=",
+        "eventImageUrl": "https://media.istockphoto.com/id/2132700561/photo/portrait-of-indian-young-woman-wearing-casual-kurta-on-white-background-stock-photo.jpg?s=612x612&w=0&k=20&c=UJjfuaXVUT7pLvCND19gwVbs4X8mSdba6DsJHU3z4fw=",
         "host": "Design Expert",
-        "hostImageUrl": "https://media.istockphoto.com/id/1352135119/photo/smiling-speaker-at-design-workshop.jpg?s=612x612&w=0&k=20&c=ulYpNjT7bw4vQET2jObcJFiT7e1AwMbKMrxt9fZJkRM=",
+        "hostImageUrl": "https://media.istockphoto.com/id/1133983188/photo/male-speaker-speaks-in-a-business-seminar.jpg?s=612x612&w=0&k=20&c=00MEYZfi4lc9TvPpa50wAEhmScOaRafXj84YXUf5Ugs=",
         "details": "A workshop focused on the fundamentals of UX design, covering user research, wireframing, prototyping, and usability testing. Participants will learn from industry experts and practice hands-on skills to create intuitive and user-friendly digital experiences.",
         "dressCode": ["Casual", "Comfortable"],
         "ageRestriction": "18 and above",
@@ -33,8 +33,8 @@
         "entryFee": "1,500",
         "speakersCount": 2,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1272937593/photo/woman-ux-designer.jpg?s=612x612&w=0&k=20&c=2s3Oswj3VsWvh4HPX3aGXB3Ebm-sv_Jx8GbLzV7KePY=",
-            "https://media.istockphoto.com/id/1312553905/photo/man-presenting-ideas.jpg?s=612x612&w=0&k=20&c=Xd5Csf9rCfXKnDiRCedVK8M_GIO10YqrsU6DQhgA6is="
+            "https://media.istockphoto.com/id/161310296/photo/black-smiling-teenage-girl-head-shoulders.jpg?s=612x612&w=0&k=20&c=dcx_-RZu05lqSDXEoy2tmm-gbfU8TKExHw3Qfde4kAM=",
+            "https://media.istockphoto.com/id/1138619159/photo/i-dont-need-a-reason-to-smile.jpg?s=612x612&w=0&k=20&c=J96NtgYNvW7RTqOOsnG7_leGj0O0zJrGDSdOKlVsDbs="
         ],
         "speakersName": ["Alice Lin", "David Kim"],
         "speakersDesignation": ["Senior Designer", "Product Design Lead"]
@@ -44,9 +44,9 @@
         "title": "Marketing Seminar",
         "date": "Wed Feb 14 2024 * 9:00:00 AM IST",
         "eventMode": "Offline Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1202252432/photo/digital-marketing-concept.jpg?s=612x612&w=0&k=20&c=aN2sbxB6HCeOECzL_zA3jyJd-UfEkvLFE4q_Im_zGiI=",
+        "eventImageUrl": "https://media.istockphoto.com/id/1496638168/photo/a-business-hijab-woman-in-the-center-of-a-circle-passionately-sharing-his-business-ideas-with.jpg?s=612x612&w=0&k=20&c=hrUzys7yap80tE3tbl9JxK5a2UdII-JZEIDPdK0iKfs=",
         "host": "Marketing Experts",
-        "hostImageUrl": "https://media.istockphoto.com/id/1138503106/photo/business-team-at-presentation.jpg?s=612x612&w=0&k=20&c=o4V8FjKbVUbQ3WRtGX1T-oYcFgk6RsI8W22YHT8BFKc=",
+        "hostImageUrl": "https://media.istockphoto.com/id/1254893820/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=0o4vjarC0oC7X5XpP0AHb6V_wRh8ZK3WyjDr792DmhM=",
         "details": "An intensive seminar covering the latest digital marketing trends and techniques, including SEO, social media advertising, email marketing, and data analytics. Perfect for professionals aiming to elevate their online presence and marketing strategy.",
         "dressCode": ["Business Casual"],
         "ageRestriction": "18 and above",
@@ -55,9 +55,8 @@
         "entryFee": "3,000",
         "speakersCount": 3,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1251153246/photo/speaker-at-seminar.jpg?s=612x612&w=0&k=20&c=nFZEXmKTidkdJ_vA0BjoDgsjZHbLysnHRoCSeKpSQiA=",
-            "https://media.istockphoto.com/id/1287841866/photo/business-leader.jpg?s=612x612&w=0&k=20&c=Mr9zQl4qBh_kLlQuXt-JF9iOBvBUbfawgoJ3E7iUwA0=",
-            "https://media.istockphoto.com/id/1242356656/photo/man-speaking.jpg?s=612x612&w=0&k=20&c=pNkHE5uUZtvSCGZXLgdGL6Ib0a6OSDPsjsbySe76v5Q="
+            "https://media.istockphoto.com/id/1136823616/photo/indoor-portrait-of-happy-african-american-young-woman-dressed-in-casual-beige-shirt-smiles.jpg?s=612x612&w=0&k=20&c=T40d6dAWqyPYQxI2mHbbNxiOEhytueKBv1QhRiBCnRk=",
+            "https://media.istockphoto.com/id/539658500/photo/young-woman-with-beautiful-smile.jpg?s=612x612&w=0&k=20&c=nNsEqHYFmXT8tZGWnLwWLa9iu38FuiIorGll62KB6tw="
         ],
         "speakersName": ["Mark Andrews", "Nina Patel", "Jason Wong"],
         "speakersDesignation": ["SEO Specialist", "Social Media Strategist", "Analytics Specialist"]
@@ -67,9 +66,9 @@
         "title": "Content Marketing Summit",
         "date": "Fri Mar 22 2024 * 10:30:00 AM IST",
         "eventMode": "Online Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1198775211/photo/content-marketing-concept.jpg?s=612x612&w=0&k=20&c=nCE47M-R4Fm0L6LWWznZ5E6Tp4gjxBdy6PZDJryfxsc=",
+        "eventImageUrl": "https://media.istockphoto.com/id/1252249380/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=SLuHdPvaVTsdE-tBGyv0pY9ImuTtHb7MfhqilblCMfM=",
         "host": "Creative Content",
-        "hostImageUrl": "https://media.istockphoto.com/id/1157772479/photo/woman-hosting-online-seminar.jpg?s=612x612&w=0&k=20&c=rsN0_PguqH3-QHbrAGpALkUnE8H-9e2HjA6mcWo8UQw=",
+        "hostImageUrl": "https://media.istockphoto.com/id/1425764231/photo/rear-view-of-business-colleagues-talking-on-a-seminar-in-a-board-room.jpg?s=612x612&w=0&k=20&c=v6lyHzJjEM_pmhsZqWw3txbme0t1b4fL0o5g0z-BRWk=",
         "details": "An interactive online event focused on content strategy, storytelling, and content creation techniques. Participants will learn to build engaging content that connects with audiences and drives conversions.",
         "dressCode": ["Casual"],
         "ageRestriction": "16 and above",
@@ -78,9 +77,8 @@
         "entryFee": "Free",
         "speakersCount": 3,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1232674539/photo/female-presenter.jpg?s=612x612&w=0&k=20&c=9zkFH_FO4nhtmCC3Q6T2A2DJIdFbE7sgp2IzwN1Zk7o=",
-            "https://media.istockphoto.com/id/1254625252/photo/man-speaking-on-stage.jpg?s=612x612&w=0&k=20&c=ZnAcFrcA4xV2B6Pvl9Fztl7HhyL5gNE2DUFEEDZ4dEo=",
-            "https://media.istockphoto.com/id/1182423450/photo/presenter-in-virtual-conference.jpg?s=612x612&w=0&k=20&c=XbhyA5SGFXPYzvF5RUJkRyAYx6l4whK5AnDxNxHz-v0="
+            "https://media.istockphoto.com/id/1194465573/photo/portrait-of-smiling-african-american-woman.jpg?s=612x612&w=0&k=20&c=hD6As6gEFZobg44dhiHWkweVcKCv0NvPkk6XQChQKds=",
+            "https://media.istockphoto.com/id/177691725/photo/casual-woman.jpg?s=612x612&w=0&k=20&c=OPKoQtxMMcz1j527zduXskrIVc69eYmMvASkw4uWMtM="
         ],
         "speakersName": ["Linda Zhao", "Alex Gomez", "Rachel Ford"],
         "speakersDesignation": ["Content Strategist", "Video Marketing Expert", "Blogging Specialist"]
@@ -90,9 +88,9 @@
         "title": "Cybersecurity Summit 2024",
         "date": "Fri Feb 16 2024 * 9:00:00 AM IST",
         "eventMode": "Offline Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1048204886/photo/speaking-at-a-conference.jpg?s=612x612&w=0&k=20&c=DAudRuEUhxMOGMGs5ASeJGO_yZwFuTmbDk_pAD65Q-k=",
+        "eventImageUrl": "https://media.istockphoto.com/id/1785634862/photo/yes-colleague-do-you-have-a-question-for-me.jpg?s=612x612&w=0&k=20&c=E-H5upc60-o3kIaE1GMrWGjfklto6og8Ew-GQOI0Qu4=",
         "host": "CyberDefend Org",
-        "hostImageUrl": "https://media.istockphoto.com/id/1285065047/photo/young-businessman-addressing-large-group-of-people-at-a-conference.jpg?s=612x612&w=0&k=20&c=GTDdRpUr8XvFC_Yy7RR_mhtGZTcNsLVbxjCkqgNNUQw=",
+        "hostImageUrl": "https://media.istockphoto.com/id/2163292047/photo/businesswoman-leading-a-discussion-with-colleagues-in-a-modern-office-setting.jpg?s=612x612&w=0&k=20&c=RmT4ueulHNNHwmPVVOfcUVXNL4jmlTRn82ZNFt51dBU=",
         "details": "An in-depth exploration of cybersecurity challenges, featuring workshops on malware analysis, ethical hacking, and system protection. Industry leaders will share strategies to safeguard information and prevent data breaches.",
         "dressCode": ["Business Formal"],
         "ageRestriction": "18 and above",
@@ -101,7 +99,7 @@
         "entryFee": "4,200",
         "speakersCount": 1,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1259371813/photo/businessman-at-conference.jpg?s=612x612&w=0&k=20&c=Ad0IH9AA2yPclgK4x97gOgEUxGgJmOY2-hgxmnE-F7M="
+            "https://media.istockphoto.com/id/1347368796/photo/studio-portait.jpg?s=612x612&w=0&k=20&c=Ti41F0AD-YgP7tjD4nlTuFcNoqI4RrR57GqF589t_Q8="
         ],
         "speakersName": ["Alex Grant"],
         "speakersDesignation": ["Security Architect"]
@@ -111,9 +109,9 @@
         "title": "Data Science",
         "date": "Wed Nov 20 2024 * 10:00:00 AM IST",
         "eventMode": "Online Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1200650494/photo/virtual-conference.jpg?s=612x612&w=0&k=20&c=OfmG5yfh9AE0ePogFJvE3Ko_HIwL8q3pdDdHrjjGQdE=",
+        "eventImageUrl": "https://media.istockphoto.com/id/1331917601/photo/heres-the-plan.jpg?s=612x612&w=0&k=20&c=eFrQWGpX05taTcAPOEwMeDVs5ItswjCrjaE8f4tkbP0=",
         "host": "Data Pioneers",
-        "hostImageUrl": "https://media.istockphoto.com/id/1328930839/photo/woman-hosting-webinar.jpg?s=612x612&w=0&k=20&c=RTaq7cwkbUdfjQJfGllMeOT9AeCtGvw2jJsQG8TIGQc=",
+        "hostImageUrl": "https://media.istockphoto.com/id/1191884037/photo/woman-manager-stands-addressing-to-team-at-board-meeting.jpg?s=612x612&w=0&k=20&c=9Fu-aaPTDnir8mxny41oEmTBZCRs22-TguawuDQSy1s=",
         "details": "A comprehensive virtual event on data science trends, including talks on data engineering, visualization, and predictive analytics. Featuring workshops and networking opportunities with data experts and enthusiasts worldwide.",
         "dressCode": ["Casual"],
         "ageRestriction": "18 and above",
@@ -122,8 +120,8 @@
         "entryFee": "2500",
         "speakersCount": 2,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1334958762/photo/portrait-of-an-african-man.jpg?s=612x612&w=0&k=20&c=W0Vu3gW_taBj93vItJxz_AAQMk5q28PGBvEGdNlR0LE=",
-            "https://media.istockphoto.com/id/1314553442/photo/portrait-of-a-young-female-scientist.jpg?s=612x612&w=0&k=20&c=lbNl1EfQ__HTK0ltmjvEj2jk7FLlEmEKYZ1QROmrhlw="
+            "https://media.istockphoto.com/id/1077860892/photo/beautiful-afro-woman-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=CTaDTQ3C_8PU5zFhnw-cHqdftOlfFFX8Zz7u61yl2b0=",
+            "https://media.istockphoto.com/id/1367907038/photo/head-shot-portrait-of-smiling-young-african-american-woman.jpg?s=612x612&w=0&k=20&c=gVY1Zfs0acei2RovGZBhw8BahSbtZpOVl3oqoWyOwVg="
         ],
         "speakersName": ["Tariq Hasan", "Lina Nguyen"],
         "speakersDesignation": ["Data Analyst", "ML Specialist"]
@@ -133,9 +131,9 @@
         "title": "AI Innovation Summit",
         "date": "Mon Sep 21 2024 * 9:00:00 AM IST",
         "eventMode": "Hybrid Event",
-        "eventImageUrl": "https://media.istockphoto.com/id/1282203556/photo/audience-watching-presentation-at-technology-conference.jpg?s=612x612&w=0&k=20&c=7v5vT9WzY54_NcKu_YA4F8K3F8_GBCzmkj7zL_rMejw=",
+        "eventImageUrl": "https://media.istockphoto.com/id/1264921428/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=IS2ucfycl3ot3C3SvC_We0VfGYQ3NAKG4BELny0l5so=",
         "host": "AI Pioneers",
-        "hostImageUrl": "https://media.istockphoto.com/id/1133979825/photo/speaker-giving-a-talk-in-conference-hall-at-business-event.jpg?s=612x612&w=0&k=20&c=IDHFoeBX_jibAeLXAXpMJhzdt2uAxJ2oOzr9TGty6_Q=",
+        "hostImageUrl": "https://media.istockphoto.com/id/1259446340/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=TnqZLMjZ08QHHCHQStpq7LwRwSBiXXmQfBgq0Ho1-Tw=",
         "details": "The AI Innovation Summit brings together thought leaders, AI developers, and researchers to explore cutting-edge advancements in artificial intelligence and machine learning. The event includes keynotes, workshops, and panel discussions on AI ethics, deep learning, and future AI applications. It is ideal for tech professionals, researchers, and AI enthusiasts looking to stay updated on the latest trends.",
         "dressCode": ["Smart Formal"],
         "ageRestriction": "18 and above",
@@ -144,9 +142,8 @@
         "entryFee": "5,000",
         "speakersCount": 3,
         "speakersImageUrl": [
-            "https://media.istockphoto.com/id/1357439265/photo/portrait-of-a-smiling-female-professional.jpg?s=612x612&w=0&k=20&c=kl9qE3o8QSm9uQu1_rz1KgsR77nKiuhTqQOznzI-K1A=",
-            "https://media.istockphoto.com/id/1154108892/photo/portrait-of-mature-businessman.jpg?s=612x612&w=0&k=20&c=PdC0EDu-W97Ibw5uljxNY09gH9HTbTx5LNhmzO2Blcw=",
-            "https://media.istockphoto.com/id/1325837171/photo/portrait-of-an-asian-businesswoman-in-an-office.jpg?s=612x612&w=0&k=20&c=Wg4lNy8e-b_1gJYETeUJ4qjcdyFT5_w5dqZMSvk7HG4="
+            "https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=is&k=20&c=tw9TuTigzhSlLA_b1Avy0X6GNF9ZFVvgTHIZ9i68Q0I=",
+            "https://media.istockphoto.com/id/1925603670/photo/portrait-of-beautiful-woman-with-curly-hair-indoors-attractive-lady-smiling-and-looking-into.jpg?s=612x612&w=is&k=20&c=r11aQg2PouwAYQoIXTvrXx0y0m7rOGPR165143iyNtg="
         ],
         "speakersName": ["Ava Johnson", "Dr. Eric Lin", "Maria Rodriguez"],
         "speakersDesignation": ["AI Research Scientist", "Data Science Lead", "Machine Learning Engineer"]
