@@ -1,7 +1,8 @@
 [
+    
     {
         "title": "Tech Conference",
-        "date": "Thu Jul 13 202 * 7:00:00 AM IST",
+        "date": "Thu Jul 13 2022 * 7:00:00 AM IST",
         "eventMode": "Offline Event",
         "eventImageUrl": "https://media.istockphoto.com/id/1155374981/photo/we-can-make-everything-very-easy-for-ourselves.jpg?s=612x612&w=0&k=20&c=1kG0jdZgUB8RjzSyTfN5MjAJvynTqtar6oKXi6jyM-s=",
         "host": "Tech Experts",
@@ -10,6 +11,8 @@
         "dressCode": ["Smart Casual", "Smart Formal"],
         "ageRestriction": "18 and above",
         "eventTags": ["marketing", "digital"],
+        "startEvent": "Thu Jul 13 2022 at 7:00:00 AM",
+        "endEvent": "Thu Jul 13 2022 at 9:00:00 AM",
         "address": "Tech City, 456 Tech Avenue, City",
         "entryFee": "3,500",
         "speakersCount": 2,
@@ -17,18 +20,20 @@
         "speakersName": ["Smith Carl", "john Doe"],
         "speakersDesignation": ["Tech Manager", "SEO Specialist"]
     },
-
+    
     {
         "title": "Design Workshop",
-        "date": "Mon Dec 4 2024 * 10:00:00 AM IST",
+        "date": "Mon Dec 4 2024 * 02:00:00 PM IST",
         "eventMode": "Offline Event",
         "eventImageUrl": "https://plus.unsplash.com/premium_photo-1679547202671-f9dbbf466db4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHdvcmtzaG9wfGVufDB8fDB8fHww",
-        "host": "Design Expert",
+        "host": "Design Experts",
         "hostImageUrl": "https://media.istockphoto.com/id/1133983188/photo/male-speaker-speaks-in-a-business-seminar.jpg?s=612x612&w=0&k=20&c=00MEYZfi4lc9TvPpa50wAEhmScOaRafXj84YXUf5Ugs=",
         "details": "A workshop focused on the fundamentals of UX design, covering user research, wireframing, prototyping, and usability testing. Participants will learn from industry experts and practice hands-on skills to create intuitive and user-friendly digital experiences.",
-        "dressCode": ["Casual", "Comfortable"],
+        "dressCode": ["Casual"],
         "ageRestriction": "18 and above",
         "eventTags": ["UX", "design"],
+        "startEvent": "Mon Dec 4 2024 at 02:00:00 PM",
+        "endEvent": "Mon Dec 4 2024 at 03:00:00 PM",
         "address": "Design Studio Hub, 987 Innovation Rd, Design City",
         "entryFee": "1,500",
         "speakersCount": 2,
@@ -51,6 +56,8 @@
         "dressCode": ["Business Casual"],
         "ageRestriction": "18 and above",
         "eventTags": ["digital marketing", "social media"],
+        "startEvent": "Wed Feb 14 2024 at 9:00:00 AM",
+        "endEvent": "Wed Feb 14 2024 at 11:00:00 AM",
         "address": "Marketing Hub, 45 Growth Lane, Business City",
         "entryFee": "3,000",
         "speakersCount": 3,
@@ -67,12 +74,14 @@
         "date": "Fri Mar 22 2024 * 10:30:00 AM IST",
         "eventMode": "Online Event",
         "eventImageUrl": "https://media.istockphoto.com/id/1252249380/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=SLuHdPvaVTsdE-tBGyv0pY9ImuTtHb7MfhqilblCMfM=",
-        "host": "Creative Content",
+        "host": "Creative Content Experts",
         "hostImageUrl": "https://media.istockphoto.com/id/1425764231/photo/rear-view-of-business-colleagues-talking-on-a-seminar-in-a-board-room.jpg?s=612x612&w=0&k=20&c=v6lyHzJjEM_pmhsZqWw3txbme0t1b4fL0o5g0z-BRWk=",
         "details": "An interactive online event focused on content strategy, storytelling, and content creation techniques. Participants will learn to build engaging content that connects with audiences and drives conversions.",
         "dressCode": ["Casual"],
-        "ageRestriction": "16 and above",
+        "ageRestriction": "18 and above",
         "eventTags": ["content marketing", "storytelling", "online seminar"],
+        "startEvent": "Fri Mar 22 2024 at 10:30:00 AM",
+        "endEvent": "Fri Mar 22 2024 at 12:00:00 AM",
         "address": "Virtual",
         "entryFee": "Free",
         "speakersCount": 3,
@@ -89,12 +98,14 @@
         "date": "Fri Feb 16 2024 * 9:00:00 AM IST",
         "eventMode": "Offline Event",
         "eventImageUrl": "https://media.istockphoto.com/id/1785634862/photo/yes-colleague-do-you-have-a-question-for-me.jpg?s=612x612&w=0&k=20&c=E-H5upc60-o3kIaE1GMrWGjfklto6og8Ew-GQOI0Qu4=",
-        "host": "CyberDefend Org",
+        "host": "CyberDefend Experts",
         "hostImageUrl": "https://media.istockphoto.com/id/2163292047/photo/businesswoman-leading-a-discussion-with-colleagues-in-a-modern-office-setting.jpg?s=612x612&w=0&k=20&c=RmT4ueulHNNHwmPVVOfcUVXNL4jmlTRn82ZNFt51dBU=",
         "details": "An in-depth exploration of cybersecurity challenges, featuring workshops on malware analysis, ethical hacking, and system protection. Industry leaders will share strategies to safeguard information and prevent data breaches.",
         "dressCode": ["Business Formal"],
         "ageRestriction": "18 and above",
         "eventTags": ["cybersecurity", "IT security"],
+        "startEvent": "Fri Feb 16 2024 at 9:00:00 AM",
+        "endEvent": "Fri Feb 16 2024 at 9:00:00 AM",
         "address": "SecureTech Hall, 789 Secure Ave, Cyber City",
         "entryFee": "4,200",
         "speakersCount": 1,
@@ -106,19 +117,19 @@
     }, 
 
     {
-        "title": "Data Science",
+        "title": "Data Science Summit",
         "date": "Wed Nov 20 2024 * 10:00:00 AM IST",
         "eventMode": "Online Event",
         "eventImageUrl": "https://media.istockphoto.com/id/1331917601/photo/heres-the-plan.jpg?s=612x612&w=0&k=20&c=eFrQWGpX05taTcAPOEwMeDVs5ItswjCrjaE8f4tkbP0=",
-        "host": "Data Pioneers",
+        "host": "Data Pioneer Experts",
         "hostImageUrl": "https://media.istockphoto.com/id/1191884037/photo/woman-manager-stands-addressing-to-team-at-board-meeting.jpg?s=612x612&w=0&k=20&c=9Fu-aaPTDnir8mxny41oEmTBZCRs22-TguawuDQSy1s=",
         "details": "A comprehensive virtual event on data science trends, including talks on data engineering, visualization, and predictive analytics. Featuring workshops and networking opportunities with data experts and enthusiasts worldwide.",
         "dressCode": ["Casual"],
         "ageRestriction": "18 and above",
         "eventTags": ["data science", "analytics"],
         "startEvent": "Wed Nov 20 2024 at 10:00:00 AM",
-        "endEvent": "Wed Nov 20 2024 at 10:30:00 AM",
-        "address": "Virtual",
+        "endEvent": "Wed Nov 20 2024 at 12:30:00 AM",
+        "address": "Virtual, Google Meet App",
         "entryFee": "2500",
         "speakersCount": 2,
         "speakersImageUrl": [
@@ -127,19 +138,22 @@
         ],
         "speakersName": ["Tariq Hasan", "Lina Nguyen"],
         "speakersDesignation": ["Data Analyst", "ML Specialist"]
-    }, 
+    },
 
+   
     {
         "title": "AI Innovation Summit",
         "date": "Mon Sep 21 2024 * 9:00:00 AM IST",
         "eventMode": "Online Event",
         "eventImageUrl": "https://media.istockphoto.com/id/1264921428/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=IS2ucfycl3ot3C3SvC_We0VfGYQ3NAKG4BELny0l5so=",
-        "host": "AI Pioneers",
+        "host": "AI Pioneers Experts",
         "hostImageUrl": "https://media.istockphoto.com/id/1259446340/photo/group-of-business-people-meeting-in-a-seminar-conference.jpg?s=612x612&w=0&k=20&c=TnqZLMjZ08QHHCHQStpq7LwRwSBiXXmQfBgq0Ho1-Tw=",
         "details": "The AI Innovation Summit brings together thought leaders, AI developers, and researchers to explore cutting-edge advancements in artificial intelligence and machine learning. The event includes keynotes, workshops, and panel discussions on AI ethics, deep learning, and future AI applications. It is ideal for tech professionals, researchers, and AI enthusiasts looking to stay updated on the latest trends.",
         "dressCode": ["Smart Formal"],
         "ageRestriction": "18 and above",
         "eventTags": ["artificial intelligence", "machine learning"],
+        "startEvent": "Mon Sep 21 2024 at 9:00:00 AM",
+        "endEvent": "Mon Sep 21 2024 at 11:00:00 AM",
         "address": "Innovation Center, 1234 AI Street, Metropolis",
         "entryFee": "5,000",
         "speakersCount": 3,
@@ -150,6 +164,5 @@
         "speakersName": ["Ava Johnson", "Dr. Eric Lin", "Maria Rodriguez"],
         "speakersDesignation": ["AI Research Scientist", "Data Science Lead", "Machine Learning Engineer"]
     }
-    
     
 ]
