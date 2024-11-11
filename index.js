@@ -100,6 +100,30 @@ app.post("/events", async (req, res) => {
 
 //  readAllEvents()
 
+// read event by id : 
+
+async function readEventById(eventId){
+    try {
+        const eventById = await Event.findById(eventId)
+        return eventById
+    } catch (error) {
+        throw error
+    }
+}
+
+app.get("/events/:eventId", async (req, res) => {
+        try {
+            const events = await readEventById(req.params.eventId)
+            if(events){
+                res.json(events)
+            } else {
+                res.status(404).json({error: "Event not found."})
+            }
+        } catch (error) {
+            res.status(500).json({error: "Failed to fetch event."})
+        }
+    })
+
 const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
     console.log(`Server running on the port ${PORT}`)
