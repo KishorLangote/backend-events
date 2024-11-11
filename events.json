@@ -116,6 +116,8 @@
         "dressCode": ["Casual"],
         "ageRestriction": "18 and above",
         "eventTags": ["data science", "analytics"],
+        "startEvent": "Wed Nov 20 2024 at 10:00:00 AM",
+        "endEvent": "Wed Nov 20 2024 at 10:30:00 AM",
         "address": "Virtual",
         "entryFee": "2500",
         "speakersCount": 2,

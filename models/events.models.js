@@ -16,7 +16,7 @@ const eventsSchema = new mongoose.Schema({
     },
     host: {
         type: [String],
-        enum: ["Tech Experts", "Design Experts", "Marketing Experts", "Creative Content", "CyberDefend Org", "Data Pioneers", "AI Pioneers"],
+        enum: ["Tech Experts", "Design Experts", "Marketing Experts", "Creative Content Experts", "CyberDefend Experts", "Data Pioneer Experts", "AI Pioneers Experts"],
     },
     hostImageUrl : {
         type: String,

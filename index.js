@@ -44,6 +44,7 @@ app.get("/", (req, res) => {
     res.send("Hello, Express!")
 })
 
+
 // app.get("/events", (req, res) => {
 //     res.send(newEvent)
 // })
@@ -124,6 +125,9 @@ app.get("/events/:eventId", async (req, res) => {
             res.status(500).json({error: "Failed to fetch event."})
         }
     })
+
+
+
 
 const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
