@@ -105,6 +105,7 @@ app.post("/events", async (req, res) => {
 async function readEventById(eventId){
     try {
         const eventById = await Event.findById(eventId)
+        console.log(eventById)
         return eventById
     } catch (error) {
         throw error

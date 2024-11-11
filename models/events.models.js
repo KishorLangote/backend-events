@@ -36,6 +36,12 @@ const eventsSchema = new mongoose.Schema({
         type: [String],
         enum: [],
     },
+    startEvent: {
+        type: String,
+    }, 
+    endEvent: {
+        type: String,
+    },
     address: {
         type: String,
     },
