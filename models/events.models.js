@@ -8,8 +8,7 @@ const eventsSchema = new mongoose.Schema({
         type: String,
     },
     eventMode: {
-        type: [String],
-        enum: [],
+        type: String,
     },
     eventImageUrl: {
         type: String,
