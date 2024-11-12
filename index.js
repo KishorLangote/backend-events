@@ -127,6 +127,31 @@ app.get("/events/:eventId", async (req, res) => {
     })
 
 
+    //  write APIs route for read event by title:
+
+    async function readEventByTitle(eventTitle){
+        try {
+            const eventByTitle = await Event.find({ title: eventTitle })
+            return eventByTitle
+        } catch (error) {
+            throw error
+        }
+    }
+
+
+    app.get("/events/title/:eventTitle", async (req, res) => {
+        try {
+            const events = await readEventByTitle(req.params.eventTitle)
+            if(events){
+                res.json(events)
+            } else {
+                res.status(404).json({error: "Not found event."})
+            }
+        } catch (error) {
+            res.status(500).json({error: "Failed to fetch event."})
+        }
+    })
+
 
 
 const PORT = process.env.PORT || 3000
