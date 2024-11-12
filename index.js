@@ -152,6 +152,30 @@ app.get("/events/:eventId", async (req, res) => {
         }
     })
 
+    // write APIs route to read event by tags : 
+
+    async function readEventByTags(eventTag){
+        try {
+            const eventByTag = await Event.findOne({eventTags: eventTag})
+            return eventByTag
+        } catch (error) {
+            throw error
+        }
+    }
+
+    app.get("/events/tag/:eventTag", async (req, res) => {
+        try {
+            const events = await readEventByTags(req.params.eventTag)
+            if(events){
+                res.json(events)
+            } else {
+                res.status(404).json({error: "Event not found."})
+            }
+        } catch (error) {
+            res.status(500).json({error: "Failed to fetch event."})
+        }
+    })
+
 
 
 const PORT = process.env.PORT || 3000
